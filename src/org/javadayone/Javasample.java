@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Javasample {
 
-	int a=8
+	int a=8;
 		
-	}
+	
 }
